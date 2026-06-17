@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdallah Saidane</h1>
-<h3 align="center">DevSecOps Engineer | Cloud & Kubernetes | AI-Driven Security Observability</h3>
+<h3 align="center">DevOps Engineer | Cloud & Kubernetes Infrastructure | CI/CD Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+TALYS+%E2%80%93+AI-driven+security+platform;Kubernetes+%7C+Falco+%7C+Wazuh+%7C+Suricata+%7C+ELK;XGBoost+%7C+Isolation+Forest+%7C+LSTM+for+threat+detection;Always+automating%2C+always+securing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;Automating+%26+scaling+cloud-native+infrastructure;AWS+%7C+GCP+%7C+OpenStack+%7C+CI%2FCD+Pipelines;Currently+building+TALYS+%E2%80%93+AI-driven+security+platform." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 Building **TALYS**, a Kubernetes-based (K3s) AI-driven security observability platform combining SIEM/IDS sources with ML-based threat detection.
-- 🛡️ Daily driver tools: **Falco, Wazuh, Suricata, ELK Stack, Kafka, Logstash** for real-time log pipelines and intrusion detection.
-- 🤖 Designing ML pipelines (**XGBoost, Isolation Forest, LSTM**) for anomaly detection, attack classification, and AI-assisted alert enrichment (Langflow).
+- 🚀 **DevOps Engineer** focused on Cloud Infrastructure, Kubernetes, and CI/CD automation.
+- ☁️ Deploying and automating infrastructure with **Terraform, Ansible, Helm, Jenkins** across **AWS, GCP, and OpenStack**.
+- 🐳 Containerizing full-stack apps (**Spring Boot + Angular**) and setting up monitoring with **Prometheus & Grafana**.
+- 🔐 Currently building **TALYS**, a Kubernetes-based (K3s) AI-driven security observability platform (Falco, Wazuh, Suricata, ELK, ML-based threat detection).
 - 🎓 Engineering student at **ESPRIT** — IT Infrastructure & Cloud Technology.
-- 🌱 Background in full-stack development (**Spring Boot + Angular**) and cloud infra (**AWS, GCP, OpenStack, Terraform, Ansible**).
 - 🌍 Based in Tunisia.
 
 ---
