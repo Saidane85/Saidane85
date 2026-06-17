@@ -1,83 +1,92 @@
-# Ahmed Marzougui | DevOps & Cloud Engineer 🚀
+<h1 align="center">Hi 👋, I'm Abdallah Saidane</h1>
+<h3 align="center">DevSecOps Engineer | Cloud & Kubernetes | AI-Driven Security Observability</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer;Cloud%20Platform%20Builder;Kubernetes%20%26%20Infrastructure%20Automation;Security%20%7C%20Scalability%20%7C%20Reliability&font=Fira%20Code&center=true&width=780&height=45&color=F75C7E&vCenter=true&size=22&pause=1000" />
-  
-  <br/>
-  
-  <a href="https://www.linkedin.com/in/ahmed-marzougui-cloud">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Marzougui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="ahmed.marzougui@esprit.tn">
-    <img src="https://img.shields.io/badge/Email-ahmed.marzougui%40esprit.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://marzouguiahmed9.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://github.com/MarzouguiAhmed9">
-    <img src="https://img.shields.io/badge/GitHub-MarzouguiAhmed9-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=MarzouguiAhmed9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+TALYS+%E2%80%93+AI-driven+security+platform;Kubernetes+%7C+Falco+%7C+Wazuh+%7C+Suricata+%7C+ELK;XGBoost+%7C+Isolation+Forest+%7C+LSTM+for+threat+detection;Always+automating%2C+always+securing." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallah-saidane-641688344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdallah.saidane85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://marzouguiahmed9.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👤 Profile
+### 👨‍💻 About Me
 
-Final-year Engineering student in IT Infrastructure and Cloud Computing, seeking a 6-month internship starting January
-2026. Skilled in automating CI/CD pipelines, cloud infrastructure, microservices, and ML workflows, with a proven focus on
-building secure, reliable, and scalable systems that optimize project lifecycles and drive operational efficiency
-
-- 📍 Tunis, Tunisia  
-- 📱 +216 58 911 742  
-- 📧 ahmed.marzougui@esprit.tn  
-- 🌐 Portfolio: [marzouguiahmed9.github.io/portfolio](https://marzouguiahmed9.github.io/portfolio)  
-- 💼 Open to opportunities starting **December 2025**
+- 🔐 Building **TALYS**, a Kubernetes-based (K3s) AI-driven security observability platform combining SIEM/IDS sources with ML-based threat detection.
+- 🛡️ Daily driver tools: **Falco, Wazuh, Suricata, ELK Stack, Kafka, Logstash** for real-time log pipelines and intrusion detection.
+- 🤖 Designing ML pipelines (**XGBoost, Isolation Forest, LSTM**) for anomaly detection, attack classification, and AI-assisted alert enrichment (Langflow).
+- 🎓 Engineering student at **ESPRIT** — IT Infrastructure & Cloud Technology.
+- 🌱 Background in full-stack development (**Spring Boot + Angular**) and cloud infra (**AWS, GCP, OpenStack, Terraform, Ansible**).
+- 🌍 Based in Tunisia.
 
 ---
 
-## 🧭 Quick Navigation
+### 🛠️ Tech Stack
 
-[Profile](#-profile) • [Experience](#-experience) • [Featured Projects](#-featured-projects) • [Full Project Gallery](#-full-project-gallery) • [Tech Radar](#-technical-skills) • [Education](#-education) • [Certifications](#-certifications) • [Languages](#-languages) • [Stats](#-github-stats)
+**Cloud & DevOps**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+
+**Security & Observability**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00ACEE?style=for-the-badge&logo=falco&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+**Databases & Systems**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 💼 Experience
+### 📊 GitHub Stats
 
-<details open>
-<summary><b>DevSecOps Intern — ST2I, Tunisia (Jun 2025 – Sep 2025)</b></summary>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saidane85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saidane85&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-- Automated deployment of **8 Spring Boot microservices** on **OpenShift** using **Helm + Argo CD + GitLab CI**, reducing deployment time by **87%** across dev / stage / prod.  
-- Built supply chain security: **SBOM (Syft)**, **vulnerability scanning (Trivy & Grype)**, **image signing (Cosign)**, enforced **RBAC & SonarQube quality gates** → **95% vulnerability reduction** and **35% code quality improvement**.  
-- Achieved **99.5% uptime** via metrics + alerting dashboards (Prometheus + Grafana) and proactive SLO monitoring.  
-- Standardized release promotion with Helm versioned rollbacks & policy checks.  
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidane85&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<details open>
-<summary><b>DevOps Intern — SOCOOPEC, Tunisia (Jun 2024 – Jul 2024)</b></summary>
-<br>
-
-- Built internal **stock management platform** (Angular + Spring Boot + JWT + Swagger).  
-- Automated frontend CI/CD with **GitHub Actions → AWS EC2**, cutting manual steps **80%** and achieving **~2 min build cycles**.  
-- Introduced baseline monitoring & alert rules using **CloudWatch** (availability + resource usage).  
-</details>
-
-<details>
-<summary><b>Full-Stack JavaScript Developer — AFTERCODE (Jun 2023 – Aug 2023)</b></summary>
-<br>
-
-- Developed interactive user interfaces with vanilla JavaScript, HTML, CSS.  
-- Optimized UX via asynchronous data fetching and responsive layouts.  
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saidane85&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saidane85&style=flat-square&color=2E86C1" alt="Profile views" />
+</p>
 
-| Project | What It Solves | Impact | Stack |
-|---------|----------------|--------|-------|
-| **Terraform VPC Automation** | Standardized secure AWS network foundation. | ↓ Provision time **70%**, drift eliminated. | Terraform · AWS VPC · IAM · Remote State |
-| **Automa
+<p align="center"><i>⚡ Securing infrastructure, one container at a time.</i></p>
