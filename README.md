@@ -1,131 +1,92 @@
-# Hi there 👋 I'm Abdallah Saidane
+<h1 align="center">Hi 👋, I'm Abdallah Saidane</h1>
+<h3 align="center">DevOps Engineer | Cloud & Kubernetes Infrastructure | CI/CD Automation</h3>
 
-## DevOps | Cloud | DevSecOps Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;Automating+%26+scaling+cloud-native+infrastructure;AWS+%7C+GCP+%7C+OpenStack+%7C+CI%2FCD+Pipelines;Currently+building+TALYS+%E2%80%93+AI-driven+security+platform." alt="Typing SVG" />
+</p>
 
-Cloud and DevOps Engineer passionate about building scalable, secure, and automated infrastructures.
-
-I specialize in:
-
-* ☁️ Cloud Computing
-* 🚀 Kubernetes & Containerization
-* 🔧 Infrastructure as Code
-* 🔐 DevSecOps & Cybersecurity
-* 📊 Monitoring & Observability
-* 🤖 AI-powered Security Analytics
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallah-saidane-641688344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdallah.saidane85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://marzouguiahmed9.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-🎓 Engineering Student in IT Infrastructure and Cloud Technology at ESPRIT (Tunisia)
-
-💡 Interested in Cloud Native Technologies, Kubernetes Security, Infrastructure Automation, and AI-driven Cybersecurity.
-
-🌱 Currently improving my expertise in:
-
-* Kubernetes Security
-* AWS Cloud Architecture
-* Terraform
-* DevSecOps Practices
-* Machine Learning for Threat Detection
+- 🚀 **DevOps Engineer** focused on Cloud Infrastructure, Kubernetes, and CI/CD automation.
+- ☁️ Deploying and automating infrastructure with **Terraform, Ansible, Helm, Jenkins** across **AWS, GCP, and OpenStack**.
+- 🐳 Containerizing full-stack apps (**Spring Boot + Angular**) and setting up monitoring with **Prometheus & Grafana**.
+- 🔐 Currently building **TALYS**, a Kubernetes-based (K3s) AI-driven security observability platform (Falco, Wazuh, Suricata, ELK, ML-based threat detection).
+- 🎓 Engineering student at **ESPRIT** — IT Infrastructure & Cloud Technology.
+- 🌍 Based in Tunisia.
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge\&logo=openstack)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
-### CI/CD & Automation
+**Security & Observability**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
+![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00ACEE?style=for-the-badge&logo=falco&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### Monitoring & Security
+**Languages & Frameworks**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge)
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-### Programming
+**Databases & Systems**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
-
----
-
-## Featured Projects
-
-### 🔐 TALYS Security Observability Platform
-
-AI-driven cybersecurity platform deployed on Kubernetes.
-
-**Technologies**
-
-* Kubernetes (K3s)
-* ELK Stack
-* Wazuh
-* Falco
-* Kafka
-* Python
-* Machine Learning
-
-**Features**
-
-* Real-time threat detection
-* Container security monitoring
-* Security observability
-* AI-powered anomaly detection
-* Attack classification using ML models
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-### ☁️ SaaS Platform on Private Cloud
+### 📊 GitHub Stats
 
-Microservices-based SaaS platform deployed on OpenStack.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saidane85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saidane85&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-**Technologies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidane85&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-* OpenStack
-* Kubernetes
-* Docker
-* Angular
-* Java
-* RabbitMQ
-* Prometheus
-* Grafana
-
----
-
-## GitHub Stats
-
-![Abdallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidane85\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidane85\&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saidane85&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## Connect With Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saidane85&style=flat-square&color=2E86C1" alt="Profile views" />
+</p>
 
-📧 Email: [abdallah.saidane85@gmail.com](mailto:abdallah.saidane85@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/abdallah-saidane-641688344/
-
-🐙 GitHub:
-https://github.com/Saidane85
-
----
-
-> "Automate everything, monitor everything, secure everything."
+<p align="center"><i>⚡ Securing infrastructure, one container at a time.</i></p>
